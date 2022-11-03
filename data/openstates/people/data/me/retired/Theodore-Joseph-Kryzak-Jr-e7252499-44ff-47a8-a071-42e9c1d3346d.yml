@@ -1,0 +1,33 @@
+id: ocd-person/e7252499-44ff-47a8-a071-42e9c1d3346d
+name: Theodore Joseph Kryzak
+given_name: Theodore
+family_name: Kryzak
+email: Theodore.Kryzak@legislature.maine.gov
+death_date: 2022-03-26
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a3e36859-60c6-4bde-810a-9df84dcdb721_kryzak.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2022-03-26'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '20'
+  end_reason: Deceased
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1343
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1343
+  note: homepage
+other_names:
+- name: KRYZAK of Acton
+- name: Theodore KRYZAK
+- name: Theodore Joseph Kryzak Jr.
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1343
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+extras:
+  Seat Number: '19'
+  towns represented:
+  - Acton
+  - Lebanon
+  - Shapleigh (Part)
+  occupation: Business Owner

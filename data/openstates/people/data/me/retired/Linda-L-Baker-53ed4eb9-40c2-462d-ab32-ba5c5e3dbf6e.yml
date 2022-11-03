@@ -1,0 +1,22 @@
+id: ocd-person/53ed4eb9-40c2-462d-ab32-ba5c5e3dbf6e
+name: Linda L. Baker
+given_name: Linda
+family_name: Baker
+middle_name: L.
+image: http://legisweb1.mainelegislature.org/wp/senate/wp-content/themes/nirvana/images/socials/RSS.png
+party:
+- name: Republican
+roles:
+- start_date: '2015-01-01'
+  end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '23'
+links:
+- url: http://legisweb1.mainelegislature.org/wp/senate/senators/baker/
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000307
+sources:
+- url: http://legisweb1.mainelegislature.org/wp/senate/wp-content/uploads/sites/2/2014/12/127th-Senate-Members2.xlsx
+- url: http://legisweb1.mainelegislature.org/wp/senate/senators/baker/

@@ -1,0 +1,22 @@
+id: ocd-person/420c464a-f697-4ac5-8643-61c125ce609b
+name: Michael G. Beaulieu
+given_name: Michael
+family_name: Beaulieu
+middle_name: G.
+image: http://www.maine.gov/legis/house/photo125/beaumg.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '68'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/beaumg.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000103
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/beaumg.htm

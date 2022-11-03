@@ -1,0 +1,22 @@
+id: ocd-person/5e04284a-9a59-4269-a3e9-16775797de5c
+name: Brian D. Bolduc
+given_name: Brian
+family_name: Bolduc
+middle_name: D.
+image: http://www.maine.gov/legis/house/photo125/boldbd.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '69'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/boldbd.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000104
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/boldbd.htm

@@ -1,0 +1,29 @@
+id: ocd-person/d3ad18bd-53b1-4891-80c1-774ef90b7e06
+name: Garrett Paul Mason
+given_name: Garrett
+family_name: Mason
+image: https://mainelegislature.org/images/logo.png
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '22'
+links:
+- url: https://mainelegislature.org/senate/senator-garrett-mason/9377
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000017
+- scheme: legacy_openstates
+  identifier: MEL000200
+- scheme: legacy_openstates
+  identifier: MEL000391
+other_names:
+- name: MASON of Androscoggin
+sources:
+- url: https://mainelegislature.org/senate/senator-garrett-mason/9377
+extras:
+  first_name: Garrett
+  last_name: Mason
+  middle_name: Paul

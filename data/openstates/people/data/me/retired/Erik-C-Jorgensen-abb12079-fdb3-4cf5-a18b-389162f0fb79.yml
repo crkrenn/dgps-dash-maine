@@ -1,0 +1,25 @@
+id: ocd-person/abb12079-fdb3-4cf5-a18b-389162f0fb79
+name: Erik C. Jorgensen
+given_name: Erik C.
+family_name: Jorgensen
+email: Erik.Jorgensen@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/c4be74a9-b6aa-4a91-91ef-8ee6d0bd56d7_jorgec1.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '41'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/jorgec.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000261
+- scheme: legacy_openstates
+  identifier: MEL000379
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/jorgec.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/94
+extras:
+  district_name: Portland

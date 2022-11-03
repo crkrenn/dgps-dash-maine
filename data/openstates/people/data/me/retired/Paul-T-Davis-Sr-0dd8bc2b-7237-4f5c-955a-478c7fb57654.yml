@@ -1,0 +1,22 @@
+id: ocd-person/0dd8bc2b-7237-4f5c-955a-478c7fb57654
+name: Paul T Davis Sr.
+given_name: Paul
+family_name: Davis
+middle_name: T
+image: http://www.maine.gov/legis/house_gop/_images/davipt.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '26'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/davipt.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000061
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/davipt.htm

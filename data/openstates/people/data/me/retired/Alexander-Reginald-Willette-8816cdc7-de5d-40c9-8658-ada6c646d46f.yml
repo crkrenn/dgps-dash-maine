@@ -1,0 +1,22 @@
+id: ocd-person/8816cdc7-de5d-40c9-8658-ada6c646d46f
+name: Alexander Reginald Willette
+given_name: Alexander
+family_name: Willette
+middle_name: Reginald
+image: http://www.maine.gov/legis/house/photo125/willar.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '7'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/willar.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000042
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/willar.htm

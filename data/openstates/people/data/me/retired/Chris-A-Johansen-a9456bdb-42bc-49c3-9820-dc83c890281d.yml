@@ -1,0 +1,52 @@
+id: ocd-person/a9456bdb-42bc-49c3-9820-dc83c890281d
+name: Chris A. Johansen
+given_name: Chris
+family_name: Johansen
+email: Chris.Johansen@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/4852aeef-7cf8-456d-b975-b02fb6eaf181_Johansen.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2021-11-19'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '145'
+  end_reason: Resigned after death of wife
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/93
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/93
+  note: homepage
+other_names:
+- name: Chris JOHANSEN
+- name: JOHANSEN of Monticello
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000483
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/93
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+extras:
+  Cell Phone: (207) 538-2562
+  Seat Number: '124'
+  towns represented:
+  - Bridgewater
+  - Crystal
+  - Dyer Brook
+  - E
+  - Hersey
+  - Island Falls
+  - Linneus
+  - Littleton
+  - Ludlow
+  - Merrill
+  - Monticello
+  - Moro
+  - Mount Chase
+  - New Limerick
+  - Oakfield
+  - Sherman
+  - Smyrna
+  - Stacyville
+  - Hammond
+  - Central Aroostook
+  occupation: Retired

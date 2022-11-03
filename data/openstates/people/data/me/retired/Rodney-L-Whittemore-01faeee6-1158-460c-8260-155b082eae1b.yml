@@ -1,0 +1,25 @@
+id: ocd-person/01faeee6-1158-460c-8260-155b082eae1b
+name: Rodney L. Whittemore
+given_name: Rodney
+family_name: Whittemore
+image: https://mainelegislature.org/images/logo.png
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '3'
+links:
+- url: https://mainelegislature.org/senate/senator-rod-whittemore/9385
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000026
+- scheme: legacy_openstates
+  identifier: MEL000406
+sources:
+- url: https://mainelegislature.org/senate/senator-rod-whittemore/9385
+extras:
+  first_name: Rodney
+  last_name: Whittemore
+  middle_name: L.

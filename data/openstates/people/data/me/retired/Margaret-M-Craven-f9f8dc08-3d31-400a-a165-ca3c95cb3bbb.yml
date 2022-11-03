@@ -1,0 +1,22 @@
+id: ocd-person/f9f8dc08-3d31-400a-a165-ca3c95cb3bbb
+name: Margaret M. Craven
+given_name: Margaret
+family_name: Craven
+middle_name: M.
+image: http://www.maine.gov/legis/house/history/122nd/photo122/cravmm.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '16'
+links:
+- url: http://www.maine.gov/legis/senate/bio16s.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000016
+sources:
+- url: http://legisweb1.mainelegislature.org/wp/senate/wp-content/uploads/sites/2/2013/09/126thSenatorsList.xlsx
+- url: http://www.maine.gov/legis/senate/bio16s.htm

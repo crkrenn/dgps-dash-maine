@@ -1,0 +1,25 @@
+id: ocd-person/686a1386-171b-4cbf-98a8-10f2399553e3
+name: Andrew J. McLean
+given_name: Andrew J.
+family_name: McLean
+email: Andrew.McLean@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/eccc6c24-4698-45ff-ae97-19908e89c4cd_mcleaj.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-08-16'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '27'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/mcleaj.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000266
+- scheme: legacy_openstates
+  identifier: MEL000352
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/mcleaj.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/115
+extras:
+  district_name: Gorham

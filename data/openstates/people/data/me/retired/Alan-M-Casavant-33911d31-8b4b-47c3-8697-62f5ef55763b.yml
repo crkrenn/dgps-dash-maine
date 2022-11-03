@@ -1,0 +1,22 @@
+id: ocd-person/33911d31-8b4b-47c3-8697-62f5ef55763b
+name: Alan M. Casavant
+given_name: Alan
+family_name: Casavant
+middle_name: M.
+image: http://www.maine.gov/legis/house/photo125/casaam.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '137'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/casaam.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000171
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/casaam.htm

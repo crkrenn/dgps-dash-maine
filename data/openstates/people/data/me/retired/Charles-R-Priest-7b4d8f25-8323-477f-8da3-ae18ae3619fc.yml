@@ -1,0 +1,22 @@
+id: ocd-person/7b4d8f25-8323-477f-8da3-ae18ae3619fc
+name: Charles R. Priest
+given_name: Charles
+family_name: Priest
+middle_name: R.
+image: http://www.maine.gov/legis/house/photo125/priecr.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '63'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/priecr.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000098
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/priecr.htm

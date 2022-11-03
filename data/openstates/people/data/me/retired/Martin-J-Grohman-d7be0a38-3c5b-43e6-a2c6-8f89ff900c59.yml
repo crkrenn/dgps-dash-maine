@@ -1,0 +1,21 @@
+id: ocd-person/d7be0a38-3c5b-43e6-a2c6-8f89ff900c59
+name: Martin J. Grohman
+given_name: Martin J.
+family_name: Grohman
+image: http://www.maine.gov/legis/house/photo128/grohmj.jpg
+party:
+- name: Independent
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '12'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/grohmj.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000346
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/grohmj.htm
+extras:
+  district_name: Biddeford

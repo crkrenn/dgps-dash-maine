@@ -1,0 +1,25 @@
+id: ocd-person/a90ad0e8-6d2e-46b4-93bb-a480722fcebf
+name: Richard R. Farnsworth
+given_name: Richard R.
+family_name: Farnsworth
+email: Richard.Farnsworth@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/85008bb1-fca7-4bb7-92b2-fc96cab89d49_farnrr.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '37'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/farnrr.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000262
+- scheme: legacy_openstates
+  identifier: MEL000418
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/farnrr.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/60
+extras:
+  district_name: Portland

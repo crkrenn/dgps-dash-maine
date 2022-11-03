@@ -1,0 +1,12 @@
+pyyaml
+pandas
+unidecode
+plotly
+nbformat
+jupyter-dash
+kaleido
+dash-bootstrap-components
+nbconvert
+jupyter_contrib_nbextensions
+icecream
+pyreadstat

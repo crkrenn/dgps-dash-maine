@@ -1,0 +1,38 @@
+id: ocd-person/80d82f32-3efd-4b95-a2b9-e459c810edb0
+name: Genevieve McDonald
+given_name: Genevieve
+family_name: McDonald
+email: Genevieve.McDonald@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5d8fe540-129c-4fc6-a90f-4862e6f854e6_mcdonald.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-05-09'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '134'
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1378
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1378
+  note: homepage
+other_names:
+- name: McDONALD of Stonington
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1378
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+extras:
+  Seat Number: '29'
+  towns represented:
+  - Cranberry Isles
+  - Deer Isle
+  - Frenchboro
+  - Isle au Haut
+  - North Haven
+  - Southwest Habor
+  - Stonington
+  - Swan's Island
+  - Tremont
+  - Vinalhaven
+  - Marshall Island Township
+  occupation: Commercial Fisherman
+  education: UMaine Orono

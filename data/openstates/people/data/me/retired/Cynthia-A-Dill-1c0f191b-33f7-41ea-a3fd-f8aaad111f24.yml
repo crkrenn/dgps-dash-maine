@@ -1,0 +1,20 @@
+id: ocd-person/1c0f191b-33f7-41ea-a3fd-f8aaad111f24
+name: Cynthia A. Dill
+given_name: Cynthia
+family_name: Dill
+middle_name: A.
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '7'
+links:
+- url: http://www.maine.gov/legis/senate/bio07s.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000188
+sources:
+- url: http://www.maine.gov/legis/senate/senators/email/125SenatorsList.xls

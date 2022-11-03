@@ -1,0 +1,22 @@
+id: ocd-person/5d9e0b8c-ea2f-4c71-b940-b0f6d7aeeec0
+name: Peter S. Kent
+given_name: Peter
+family_name: Kent
+middle_name: S.
+image: http://www.maine.gov/legis/house/photo125/kentps.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '65'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/kentps.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000100
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/kentps.htm

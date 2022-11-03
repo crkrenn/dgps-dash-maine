@@ -1,0 +1,36 @@
+id: ocd-person/e53a09e6-a38e-4622-97e4-c40bf2d93faa
+name: Nicole Grohoski
+given_name: Nicole
+family_name: Grohoski
+email: Nicole.Grohoski@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/4528d1fa-c368-41ed-a769-86369d5de521_Grohoski.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-07-06'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '132'
+  end_reason: Elected in Senate special election
+- start_date: 2022-07-06
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '7'
+offices:
+- classification: capitol
+  voice: 207-287-1515
+- classification: district
+  address: P.O. Box 1732, Ellsworth, ME 04605
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1387
+- url: https://legislature.maine.gov/district-7
+  note: homepage
+other_names:
+- name: GROHOSKI of Ellsworth
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1387
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/district-7
+extras:
+  Cell Phone: (207) 358-8333
+  occupation: Cartographer, GIS Specialist

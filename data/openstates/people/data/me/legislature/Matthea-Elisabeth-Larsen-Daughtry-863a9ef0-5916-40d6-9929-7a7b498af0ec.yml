@@ -1,0 +1,42 @@
+id: ocd-person/863a9ef0-5916-40d6-9929-7a7b498af0ec
+name: Matthea Daughtry
+given_name: Matthea
+family_name: Daughtry
+email: Mattie.Daughtry@legislature.maine.gov
+image: https://legislature.maine.gov/uploads/visual_edit/daughtry-matthea-2.jpg
+party:
+- name: Democratic
+roles:
+- end_date: 2020-12-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '49'
+- start_date: 2020-12-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '24'
+offices:
+- classification: capitol
+  voice: 207-287-1515
+- classification: district
+  address: 40 Federal Street, Brunswick, ME 04011
+  voice: 207-370-9871
+links:
+- url: https://legislature.maine.gov/District-24
+- url: https://legislature.maine.gov/District-24
+  note: homepage
+- url: http://www.mainesenate.org/senator/senator/mattie-daughtry/
+  note: website
+other_names:
+- name: Matthea Elisabeth Larsen Daughtry
+- name: DAUGHTRY of Cumberland
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000245
+- scheme: legacy_openstates
+  identifier: MEL000293
+sources:
+- url: https://legislature.maine.gov/District-24
+- url: https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
+extras:
+  county represented: Cumberland

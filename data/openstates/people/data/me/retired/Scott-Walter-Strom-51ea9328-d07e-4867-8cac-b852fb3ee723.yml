@@ -1,0 +1,23 @@
+id: ocd-person/51ea9328-d07e-4867-8cac-b852fb3ee723
+name: Scott Walter Strom
+given_name: Scott Walter
+family_name: Strom
+email: Scott.Strom@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d5c04b64-1d77-4137-950e-dad575ad5844_strosw[1].jpg
+party:
+- name: Republican
+roles:
+- end_date: '2020-12-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '106'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/strosw.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000508
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/strosw.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/152
+extras:
+  district_name: Pittsfield

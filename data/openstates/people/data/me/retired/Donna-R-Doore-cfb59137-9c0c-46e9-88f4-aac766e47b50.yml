@@ -1,0 +1,33 @@
+id: ocd-person/cfb59137-9c0c-46e9-88f4-aac766e47b50
+name: Donna R. Doore
+given_name: Donna
+family_name: Doore
+email: Donna.Doore@legislature.maine.gov
+death_date: 2022-01-31
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/1db3fed0-52b9-4006-9a33-c0e4d7bfbad9_doordr.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-01-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '85'
+  end_reason: Deceased
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/38
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/38
+  note: homepage
+other_names:
+- name: DOORE of Augusta
+- name: Donna DOORE
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000432
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/38
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+extras:
+  Seat Number: '121'
+  towns represented:
+  - Augusta (Part)
+  occupation: Retired

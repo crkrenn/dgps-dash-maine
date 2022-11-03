@@ -1,0 +1,13 @@
+id: ocd-person/fc13df30-ef76-460e-9a17-a2e5339395fc
+name: Diane M. Denk
+email: Diane.Denk@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/f1f1482f-5b67-418e-8116-46eaa48ee179_denk.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '9'
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1339

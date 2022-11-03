@@ -1,0 +1,21 @@
+id: ocd-person/96d596f5-ce01-4a8e-8d16-2da1f901b9e4
+name: Nancy B. Sullivan
+given_name: Nancy
+family_name: Sullivan
+middle_name: B.
+image: http://www.mainesenate.org/wp-content/uploads/2011/02/sullivan.png
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '4'
+links:
+- url: http://www.maine.gov/legis/senate/bio04s.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000004
+sources:
+- url: http://www.maine.gov/legis/senate/senators/email/125SenatorsList.xls

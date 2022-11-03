@@ -1,0 +1,29 @@
+id: ocd-person/ad2b4077-caff-4996-968a-147daa73b201
+name: Henry E. M. Beck
+given_name: Henry
+family_name: Beck
+middle_name: E. M.
+image: http://www.maine.gov/legis/housedems/representatives/images/beckmugcolor.JPG
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '110'
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '76'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/beckhe.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000111
+- scheme: legacy_openstates
+  identifier: MEL000435
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/beckhe.htm

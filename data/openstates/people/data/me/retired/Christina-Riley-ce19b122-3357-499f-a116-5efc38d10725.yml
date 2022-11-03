@@ -1,0 +1,23 @@
+id: ocd-person/ce19b122-3357-499f-a116-5efc38d10725
+name: Christina Riley
+given_name: Christina
+family_name: Riley
+email: Tina.Riley@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/26c5b47a-c62a-40c1-a3e5-13aedee7dd8a_rilec_[1].jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '74'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/rilec_.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000510
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/rilec_.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/135
+extras:
+  district_name: Jay

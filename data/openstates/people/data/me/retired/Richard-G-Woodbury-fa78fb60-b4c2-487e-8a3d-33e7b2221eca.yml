@@ -1,0 +1,22 @@
+id: ocd-person/fa78fb60-b4c2-487e-8a3d-33e7b2221eca
+name: Richard G. Woodbury
+given_name: Richard
+family_name: Woodbury
+middle_name: G.
+image: http://maine.gov/legis/house/history/123rd/photo123/woodrg.jpg
+party:
+- name: Independent
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '11'
+links:
+- url: http://www.maine.gov/legis/senate/bio11s.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000011
+sources:
+- url: http://legisweb1.mainelegislature.org/wp/senate/wp-content/uploads/sites/2/2013/09/126thSenatorsList.xlsx
+- url: http://www.maine.gov/legis/senate/bio11s.htm

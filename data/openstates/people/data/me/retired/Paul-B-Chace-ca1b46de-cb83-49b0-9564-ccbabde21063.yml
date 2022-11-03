@@ -1,0 +1,21 @@
+id: ocd-person/ca1b46de-cb83-49b0-9564-ccbabde21063
+name: Paul B. Chace
+given_name: Paul B.
+family_name: Chace
+image: http://www.maine.gov/legis/house/photo128/chacpb.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2018-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '46'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/chacpb.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000478
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/chacpb.htm
+extras:
+  district_name: Durham

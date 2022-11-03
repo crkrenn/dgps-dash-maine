@@ -1,0 +1,22 @@
+id: ocd-person/8492bbd8-d066-4f26-a92a-17dc4262de6d
+name: Paulette G. Beaudoin
+given_name: Paulette
+family_name: Beaudoin
+middle_name: G.
+image: http://www.maine.gov/legis/house/photo125/beaupg.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '135'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/beaupg.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000169
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/beaupg.htm

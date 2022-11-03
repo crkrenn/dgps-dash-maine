@@ -1,0 +1,32 @@
+id: ocd-person/4bd39e15-0150-4a3f-b210-b285218dc1dd
+name: Kyle R. Bailey
+given_name: Kyle
+family_name: Bailey
+email: (View Map)
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/51ac2b13-d9d9-4412-8ee9-701b58b14963_BaileyNEW.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-12-02
+  end_date: '2021-10-15'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '27'
+  end_reason: Resigned to take job opportunity
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1412
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1412
+  note: homepage
+other_names:
+- name: Kyle BAILEY
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1412
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+extras:
+  Cell Phone: (207) 939-8600
+  Seat Number: '53'
+  towns represented:
+  - Scarborough (Part)
+  - Gorham (Part)
+  occupation: Consultant, Small Business Owner
+  education: University of Southern Maine

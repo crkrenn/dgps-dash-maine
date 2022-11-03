@@ -1,0 +1,25 @@
+id: ocd-person/7ddad53f-40f7-408c-9173-085cffc115dc
+name: Janice E. Cooper
+given_name: Janice E.
+family_name: Cooper
+email: Janice.Cooper@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/fda2f277-064e-4457-b9e8-63745e891953_coopje.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2020-12-02'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '47'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/coopje.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000257
+- scheme: legacy_openstates
+  identifier: MEL000460
+sources:
+- url: http://www.maine.gov/legis/house/hsebios/coopje.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/29
+extras:
+  district_name: Yarmouth

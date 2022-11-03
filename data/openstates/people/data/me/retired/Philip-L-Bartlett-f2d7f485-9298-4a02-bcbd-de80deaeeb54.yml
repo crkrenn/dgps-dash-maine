@@ -1,0 +1,20 @@
+id: ocd-person/f2d7f485-9298-4a02-bcbd-de80deaeeb54
+name: Philip L. Bartlett
+given_name: Philip
+family_name: Bartlett
+middle_name: L.
+party:
+- name: Democratic
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '6'
+links:
+- url: http://www.maine.gov/legis/senate/bio06s.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000006
+sources:
+- url: http://www.maine.gov/legis/senate/senators/email/125SenatorsList.xls

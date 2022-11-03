@@ -1,0 +1,45 @@
+id: ocd-person/1c0f311a-f4ab-4091-aaa0-9b0de3612e9e
+name: Rebecca J. Millett
+given_name: Rebecca
+family_name: Millett
+email: Rebecca.Millett@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/0ca262c0-9f4e-44f4-92d1-e8fd98aff5ec_Millett.jpg
+party:
+- name: Democratic
+roles:
+- end_date: 2020-12-02
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '29'
+- start_date: 2020-12-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '30'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: P.O. Box 6288, Cape Elizabeth , ME 04107
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1399
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1399
+  note: homepage
+other_names:
+- name: MILLETT of Cumberland
+- name: Rebecca MILLETT
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000195
+- scheme: legacy_openstates
+  identifier: MEL000383
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1399
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+extras:
+  Cell Phone: (207) 415-3770
+  Seat Number: '54'
+  towns represented:
+  - Cape Elizabeth (Part)
+  occupation: Consultant
+  education: American University; University of Chicago

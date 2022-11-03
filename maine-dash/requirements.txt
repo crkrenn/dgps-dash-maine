@@ -1,0 +1,6 @@
+dash
+pandas
+dash_bootstrap_components
+plotly
+# pip install --upgrade pip
+pyreadstat

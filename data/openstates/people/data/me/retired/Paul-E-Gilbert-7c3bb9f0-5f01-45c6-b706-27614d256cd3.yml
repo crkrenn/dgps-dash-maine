@@ -1,0 +1,29 @@
+id: ocd-person/7c3bb9f0-5f01-45c6-b706-27614d256cd3
+name: Paul E. Gilbert
+given_name: Paul
+family_name: Gilbert
+middle_name: E.
+image: http://www.maine.gov/legis/house/photo125/gilbpe.jpg
+party:
+- name: Democratic
+roles:
+- start_date: '2015-01-01'
+  end_date: '2016-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '74'
+- start_date: '2011-01-01'
+  end_date: '2014-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '87'
+links:
+- url: http://www.maine.gov/legis/house/hsebios/gilbpe.htm
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MEL000122
+- scheme: legacy_openstates
+  identifier: MEL000354
+sources:
+- url: http://www.maine.gov/legis/house/dist_mem.htm
+- url: http://www.maine.gov/legis/house/hsebios/gilbpe.htm
