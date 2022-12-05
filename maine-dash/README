@@ -1,0 +1,6 @@
+source docker_build.sh
+source docker_run_local.sh
+
+docker login -u democracygps
+docker tag "democracygps/maine-dash:test" "democracygps/maine-dash:latest"
+docker push  "democracygps/maine-dash:latest"
