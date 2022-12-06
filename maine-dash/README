@@ -4,3 +4,4 @@ source docker_run_local.sh
 docker login -u democracygps
 docker tag "democracygps/maine-dash:test" "democracygps/maine-dash:latest"
 docker push  "democracygps/maine-dash:latest"
+aws ecs update-service --cluster <cluster name> --service <service name> --force-new-deployment
